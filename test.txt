@@ -1,3 +1,5 @@
 hello
 new hello
 reset hello
+reset hello
+reset hello
