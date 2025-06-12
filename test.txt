@@ -1,5 +1,4 @@
 hello
 new hello
 reset hello
-reset hello
-reset hello
+merge conflict 
